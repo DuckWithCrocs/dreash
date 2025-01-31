@@ -1,0 +1,182 @@
+[17:53:34] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:53:35] [ServerMain/INFO]: Loaded 1290 recipes
+[17:53:36] [ServerMain/INFO]: Loaded 1399 advancements
+[17:53:36] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[17:53:36] [Server thread/INFO]: Loading properties
+[17:53:36] [Server thread/INFO]: Default game type: SURVIVAL
+[17:53:36] [Server thread/INFO]: Generating keypair
+[17:53:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:53:36] [Server thread/INFO]: Using epoll channel type
+[17:53:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:53:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:53:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:53:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:53:36] [Server thread/INFO]: Preparing level "world"
+[17:53:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:53:39] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:53:40] [Server thread/INFO]: Time elapsed: 486 ms
+[17:53:40] [Server thread/INFO]: Done (3.054s)! For help, type "help"
+[17:54:31] [Server thread/INFO]: Pato_con_flow[/127.20.53.227:34519] logged in with entity id 82 at (-303.5, 83.0, -684.5)
+[17:54:31] [Server thread/INFO]: Pato_con_flow joined the game
+[17:56:44] [Server thread/INFO]: Pato_con_flow has made the advancement [Getting an Upgrade]
+[17:56:52] [Server thread/INFO]: Lubdan[/127.67.59.64:47381] logged in with entity id 603 at (-300.5, 84.0, -696.5)
+[17:56:52] [Server thread/INFO]: Lubdan joined the game
+[17:56:58] [Server thread/INFO]: [Not Secure] <Lubdan> ole
+[17:57:09] [Server thread/INFO]: [Not Secure] <Lubdan> puso lo de cambiar skins
+[17:57:21] [Server thread/INFO]: [Not Secure] <Pato_con_flow> Es vanilla el server
+[17:57:27] [Server thread/INFO]: [Not Secure] <Lubdan> ah
+[17:59:57] [Server thread/WARN]: Lubdan moved too quickly! 9.822558941095906,-1.828867993957516,1.9183669890875308
+[18:00:17] [Server thread/INFO]: Pato_con_flow has made the advancement [Sweet Dreams]
+[18:00:20] [Server thread/INFO]: Lubdan has made the advancement [Sweet Dreams]
+[18:00:23] [Server thread/INFO]: [Not Secure] <Lubdan> zzzzz
+[18:02:21] [Server thread/INFO]: Pato_con_flow has made the advancement [Monster Hunter]
+[18:03:33] [Server thread/WARN]: Lubdan moved too quickly! -6.798580160244171,2.0,-7.144589826727497
+[18:04:42] [Server thread/INFO]: [Not Secure] <Lubdan> una oveja rosa XD
+[18:04:47] [Server thread/INFO]: [Not Secure] <Pato_con_flow> xd
+[18:04:50] [Server thread/INFO]: [Not Secure] <Pato_con_flow> donde
+[18:04:53] [Server thread/INFO]: [Not Secure] <Lubdan> aki
+[18:05:03] [Server thread/INFO]: [Not Secure] <Lubdan> atras de la aldea
+[18:05:21] [Server thread/INFO]: [Not Secure] <Pato_con_flow> xd
+[18:05:24] [Server thread/INFO]: [Not Secure] <Pato_con_flow> epico
+[18:05:30] [Server thread/INFO]: [Not Secure] <Lubdan> se supone q es dificil q spawnee no?
+[18:05:35] [Server thread/INFO]: [Not Secure] <Pato_con_flow> se
+[18:05:42] [Server thread/INFO]: [Not Secure] <Lubdan> me la pela la suerte
+[18:07:11] [Server thread/INFO]: [Not Secure] <Lubdan> toca hacer lo de los aldeanos
+[18:07:13] [Server thread/INFO]: [Not Secure] <Lubdan> encerrarlos
+[18:07:19] [Server thread/INFO]: [Not Secure] <Pato_con_flow> eso es lo q estoy haciendo equisde
+[18:07:35] [Server thread/INFO]: [Not Secure] <Lubdan> hagale
+[18:07:45] [Server thread/INFO]: [Not Secure] <Lubdan> hay un panal aki
+[18:07:48] [Server thread/INFO]: [Not Secure] <Lubdan> no lo rompa
+[18:07:51] [Server thread/INFO]: [Not Secure] <Pato_con_flow> dejelo quieto
+[18:07:57] [Server thread/INFO]: [Not Secure] <Pato_con_flow> igual no sirve pa nada
+[18:07:58] [Server thread/INFO]: [Not Secure] <Lubdan> q cree q hago genio
+[18:08:04] [Server thread/INFO]: [Not Secure] <Pato_con_flow> los bloques no me gustan
+[18:08:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-307, y=75, z=-671} jd{x=-307, y=76, z=-672}
+[18:08:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-307, y=75, z=-671} jd{x=-306, y=76, z=-672}
+[18:08:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-307, y=75, z=-671} jd{x=-305, y=76, z=-672}
+[18:08:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-307, y=75, z=-671} jd{x=-306, y=76, z=-672}
+[18:08:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-307, y=75, z=-671} jd{x=-306, y=75, z=-672}
+[18:08:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-307, y=75, z=-671} jd{x=-306, y=76, z=-673}
+[18:08:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-307, y=75, z=-671} jd{x=-306, y=76, z=-672}
+[18:08:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-307, y=75, z=-671} jd{x=-306, y=77, z=-672}
+[18:08:17] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-307, y=75, z=-671} jd{x=-306, y=76, z=-672}
+[18:08:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-307, y=75, z=-671} jd{x=-306, y=76, z=-672}
+[18:08:34] [Server thread/INFO]: [Not Secure] <Lubdan> no se quitan los bloques q mrda
+[18:08:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-307, y=75, z=-671} jd{x=-306, y=76, z=-672}
+[18:08:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-307, y=75, z=-671} jd{x=-306, y=76, z=-672}
+[18:08:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-307, y=75, z=-671} jd{x=-307, y=77, z=-672}
+[18:08:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-307, y=75, z=-671} jd{x=-308, y=77, z=-672}
+[18:08:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-308, y=76, z=-671} jd{x=-307, y=76, z=-672}
+[18:08:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-308, y=76, z=-671} jd{x=-308, y=76, z=-672}
+[18:08:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-308, y=76, z=-671} jd{x=-306, y=77, z=-672}
+[18:08:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-308, y=76, z=-671} jd{x=-306, y=76, z=-672}
+[18:08:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-308, y=76, z=-671} jd{x=-307, y=76, z=-672}
+[18:08:46] [Server thread/INFO]: [Not Secure] <Pato_con_flow> ud cuanto ping tien o q
+[18:08:53] [Server thread/INFO]: [Not Secure] <Lubdan> tengo buen pin
+[18:09:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-304, y=76, z=-671} jd{x=-306, y=77, z=-672}
+[18:09:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-304, y=76, z=-671} jd{x=-305, y=77, z=-672}
+[18:09:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-304, y=76, z=-671} jd{x=-304, y=77, z=-672}
+[18:09:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-304, y=76, z=-671} jd{x=-303, y=78, z=-672}
+[18:09:07] [Server thread/INFO]: [Not Secure] <Pato_con_flow> 396?
+[18:09:17] [Server thread/INFO]: [Not Secure] <Lubdan> no tengo 300
+[18:09:23] [Server thread/INFO]: [Not Secure] <Lubdan> tengo 150
+[18:09:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-304, y=76, z=-671} jd{x=-305, y=76, z=-672}
+[18:09:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-304, y=76, z=-671} jd{x=-306, y=76, z=-672}
+[18:09:53] [Server thread/INFO]: Lubdan lost connection: Disconnected
+[18:09:53] [Server thread/INFO]: Lubdan left the game
+[18:11:30] [Server thread/INFO]: Lubdan[/127.67.59.64:59455] logged in with entity id 3485 at (-303.176415404451, 77.0, -670.43421068276)
+[18:11:30] [Server thread/INFO]: Lubdan joined the game
+[18:11:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-305, y=75, z=-672}
+[18:11:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-305, y=76, z=-672}
+[18:11:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=-304, y=76, z=-672}
+[18:11:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-305, y=75, z=-671} jd{x=-305, y=76, z=-672}
+[18:11:53] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-305, y=75, z=-671} jd{x=-306, y=76, z=-673}
+[18:11:53] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-305, y=75, z=-671} jd{x=-306, y=76, z=-672}
+[18:11:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-305, y=75, z=-671} jd{x=-305, y=76, z=-673}
+[18:11:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-305, y=75, z=-671} jd{x=-305, y=76, z=-672}
+[18:12:37] [Server thread/INFO]: Lubdan has made the advancement [Stone Age]
+[18:13:04] [Server thread/INFO]: Pato_con_flow has made the advancement [Acquire Hardware]
+[18:14:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-280, y=74, z=-661} jd{x=-306, y=77, z=-672}
+[18:16:29] [Server thread/INFO]: [Not Secure] <Lubdan> ole tome
+[18:16:41] [Server thread/INFO]: [Not Secure] <Lubdan> venga a los aleanos
+[18:17:30] [Server thread/INFO]: [Not Secure] <Lubdan> sik
+[18:20:18] [Server thread/INFO]: Pato_con_flow was shot by Skeleton
+[18:20:29] [Server thread/INFO]: [Not Secure] <Lubdan> bruh
+[18:20:46] [Server thread/INFO]: [Not Secure] <Lubdan> deje de decir groserias prc
+[18:20:49] [Server thread/INFO]: [Not Secure] <Lubdan> es solo un juego
+[18:21:07] [Server thread/INFO]: [Not Secure] <Lubdan> z
+[18:21:31] [Server thread/INFO]: Pato_con_flow lost connection: Disconnected
+[18:21:31] [Server thread/INFO]: Pato_con_flow left the game
+[18:21:39] [Server thread/INFO]: [Not Secure] <Lubdan> si
+[18:21:44] [Server thread/INFO]: Pato_con_flow[/127.20.53.227:46881] logged in with entity id 5747 at (-195.67658441993245, 43.0, -777.6999999880791)
+[18:21:44] [Server thread/INFO]: Pato_con_flow joined the game
+[18:21:49] [Server thread/INFO]: [Not Secure] <Lubdan> si
+[18:22:20] [Server thread/INFO]: Lubdan has made the advancement [Getting an Upgrade]
+[18:22:33] [Server thread/INFO]: [Not Secure] <Lubdan> en el segundo
+[18:25:17] [Server thread/INFO]: Pato_con_flow lost connection: Disconnected
+[18:25:17] [Server thread/INFO]: Pato_con_flow left the game
+[18:27:31] [Server thread/INFO]: Pato_con_flow[/127.20.53.227:46087] logged in with entity id 7463 at (-156.65885697928533, 29.0, -783.6085601340657)
+[18:27:31] [Server thread/INFO]: Pato_con_flow joined the game
+[18:28:08] [Server thread/INFO]: [Not Secure] <Lubdan> un creeper exploto no?
+[18:28:16] [Server thread/INFO]: [Not Secure] <Lubdan> donde esta
+[18:28:24] [Server thread/INFO]: [Not Secure] <Lubdan> pero donde esta su mina
+[18:29:06] [Server thread/INFO]: [Not Secure] <Lubdan> suba
+[18:29:12] [Server thread/INFO]: [Not Secure] <Lubdan> yo tengo madera
+[18:29:26] [Server thread/INFO]: [Not Secure] <Lubdan> yp 3 stacks de madera
+[18:29:40] [Server thread/INFO]: [Not Secure] <Lubdan> okay
+[18:29:50] [Server thread/INFO]: [Not Secure] <Lubdan> nos vemos en aldeanos
+[18:31:53] [Server thread/INFO]: [Not Secure] <Lubdan> las cordenadas son
+[18:32:51] [Server thread/INFO]: [Not Secure] <Lubdan> ya se las hiba a mandar x
+[18:33:07] [Server thread/INFO]: [Not Secure] <Lubdan> zz
+[18:33:09] [Server thread/INFO]: [Not Secure] <Lubdan> zz
+[18:33:27] [Server thread/INFO]: Pato_con_flow has made the advancement [Isn't It Iron Pick]
+[18:33:50] [Server thread/INFO]: [Not Secure] <Pato_con_flow> thx
+[18:34:28] [Server thread/INFO]: [Not Secure] <Lubdan> nope
+[18:35:01] [Server thread/INFO]: Pato_con_flow has made the advancement [Not Today, Thank You]
+[18:35:57] [Server thread/INFO]: [Not Secure] <Lubdan> si
+[18:36:17] [Server thread/INFO]: [Not Secure] <Lubdan> estoy haciendo la escalera para subir
+[18:36:51] [Server thread/INFO]: Pato_con_flow has made the advancement [Diamonds!]
+[18:38:58] [Server thread/INFO]: [Not Secure] <Lubdan> igual sirve de mina
+[18:40:53] [Server thread/INFO]: [Not Secure] <Lubdan> ole
+[18:40:56] [Server thread/INFO]: [Not Secure] <Lubdan> voy a hacer un mandado
+[18:41:00] [Server thread/INFO]: [Not Secure] <Lubdan> ya vuelvo
+[18:41:06] [Server thread/INFO]: Lubdan lost connection: Disconnected
+[18:41:06] [Server thread/INFO]: Lubdan left the game
+[18:49:19] [Server thread/INFO]: Pato_con_flow lost connection: Disconnected
+[18:49:19] [Server thread/INFO]: Pato_con_flow left the game
+[18:53:56] [Server thread/INFO]: Pato_con_flow[/127.20.53.227:59167] logged in with entity id 11579 at (-18.69999998807907, 22.0, -845.3000000119209)
+[18:53:56] [Server thread/INFO]: Pato_con_flow joined the game
+[19:00:48] [Server thread/INFO]: Pato_con_flow lost connection: Disconnected
+[19:00:48] [Server thread/INFO]: Pato_con_flow left the game
+[19:03:30] [Server thread/INFO]: Pato_con_flow[/127.20.53.227:33225] logged in with entity id 12412 at (-10.300000011920929, 7.0, -885.3953207652669)
+[19:03:30] [Server thread/INFO]: Pato_con_flow joined the game
+[19:14:33] [Server thread/INFO]: Pato_con_flow has made the advancement [Sneak 100]
+[19:14:42] [Server thread/INFO]: Pato_con_flow has completed the challenge [It Spreads]
+[19:27:16] [Server thread/INFO]: [Pato_con_flow: Set own game mode to Spectator Mode]
+[19:27:25] [Server thread/WARN]: Pato_con_flow moved too quickly! 3.192170733138667,0.0,10.091246016802074
+[19:28:00] [Server thread/INFO]: [Pato_con_flow: Set own game mode to Survival Mode]
+[19:32:32] [Server thread/INFO]: Pato_con_flow has made the advancement [Suit Up]
+[19:33:13] [Server thread/INFO]: Pato_con_flow lost connection: Disconnected
+[19:33:13] [Server thread/INFO]: Pato_con_flow left the game
+[19:42:45] [Server thread/INFO]: Pato_con_flow[/127.20.53.227:50319] logged in with entity id 17340 at (194.78102063658685, 82.0, -919.1386270748443)
+[19:42:45] [Server thread/INFO]: Pato_con_flow joined the game
+[19:43:54] [Server thread/INFO]: [Pato_con_flow: Gamerule keepInventory is now set to: true]
+[19:43:56] [Server thread/INFO]: Pato_con_flow was killed
+[19:43:56] [Server thread/INFO]: [Pato_con_flow: Killed Pato_con_flow]
+[19:44:03] [Server thread/INFO]: [Pato_con_flow: Gamerule keepInventory is now set to: false]
+[19:52:32] [Server thread/INFO]: [Pato_con_flow: The difficulty has been set to Hard]
+[19:54:21] [Server thread/INFO]: [Pato_con_flow: Gave 1 [String] to Pato_con_flow]
+[19:59:10] [Server thread/INFO]: Pato_con_flow has made the advancement [What a Deal!]
+[20:06:57] [Server thread/INFO]: Pato_con_flow lost connection: Disconnected
+[20:06:57] [Server thread/INFO]: Pato_con_flow left the game
+[20:07:05] [Server thread/INFO]: Stopping the server
+[20:07:05] [Server thread/INFO]: Stopping server
+[20:07:05] [Server thread/INFO]: Saving players
+[20:07:05] [Server thread/INFO]: Saving worlds
+[20:07:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:07:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:07:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:07:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:07:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:07:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:07:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
